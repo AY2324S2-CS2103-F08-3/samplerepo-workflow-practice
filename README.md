@@ -7,3 +7,4 @@ This is a team repo for members of the team {Team ID}
 * [Jerry Wang](/members/JerryWang.md)
 JamieDoesNotLikeCoding
 ebifurai-no-shippo
+* new line hoes
