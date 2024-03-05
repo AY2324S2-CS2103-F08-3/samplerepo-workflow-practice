@@ -6,4 +6,5 @@ This is a team repo for members of the team {Team ID}
 * [Lim Xiu Jia](members/xiujiaLim.md)
 * [Jerry Wang](/members/JerryWang.md)
 zxc
+JamieDoesNotLikeCoding
 ebifurai-no-shippo
